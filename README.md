@@ -99,7 +99,7 @@ This project was a collaborative effort by a talented team. Each member played a
 | Name                                             | Role & Contribution                                                                 |
 |--------------------------------------------------|--------------------------------------------------------------------------------------|
 | **[Mohamed Abdelghany](https://github.com/Mo7amed3bdelghany)** | Web Scraping & HDFS Storage — Collected data from 200k+ URLs and stored them in HDFS |
-| **[Youssef Mahmoud ](https://github.com/Youssef-Ma7moud-Eid)**        | Big Data Processing — Built the Inverted Index and implemented the PageRank algorithm |
+| **[Youssef Mahmoud ](https://github.com/Youssef-Ma7moud-Eid)**      | Big Data Processing — Built the Inverted Index in distrbuted Files on HDFS and implemented the PageRank algorithm by neighbors Links |
 | **[Mohamed Mohy](https://github.com/MohamedMohyEldein)**    | Backend Developer — Developed the API and connected it with the database and frontend |
 | **[Omar ElSayed](https://github.com/OmarElsayed3)**      | Frontend Developer — Built a modern UI using React, TypeScript, and Tailwind CSS     |
 
