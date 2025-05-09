@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Big Data\\EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|d:\\projects\\big data\\entityframework\\entityproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|solutionrelative:entityproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|d:\\projects\\big data\\entityframework\\entityproj\\searchresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|solutionrelative:entityproj\\searchresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|d:\\projects\\big data\\entityframework\\entityproj\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|solutionrelative:entityproj\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|d:\\projects\\big data\\entityframework\\entityproj\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|solutionrelative:entityproj\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|d:\\projects\\big data\\entityframework\\entityproj\\pagerank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1210726-D484-4135-BA1B-C2A1185FBFE8}|EntityProj\\EntityProj.csproj|solutionrelative:entityproj\\pagerank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\Program.cs",
+              "RelativeDocumentMoniker": "EntityProj\\Program.cs",
+              "ToolTip": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\Program.cs",
+              "RelativeToolTip": "EntityProj\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwFsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:11:38.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageRank.cs",
+              "DocumentMoniker": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\PageRank.cs",
+              "RelativeDocumentMoniker": "EntityProj\\PageRank.cs",
+              "ToolTip": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\PageRank.cs",
+              "RelativeToolTip": "EntityProj\\PageRank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:30:33.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchResultsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\SearchResultsController.cs",
+              "RelativeDocumentMoniker": "EntityProj\\SearchResultsController.cs",
+              "ToolTip": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\SearchResultsController.cs",
+              "RelativeToolTip": "EntityProj\\SearchResultsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:18:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\SearchResult.cs",
+              "RelativeDocumentMoniker": "EntityProj\\SearchResult.cs",
+              "ToolTip": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\SearchResult.cs",
+              "RelativeToolTip": "EntityProj\\SearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:16:05.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EntityProj\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Big Data\\EntityFramework\\EntityProj\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EntityProj\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:09:41.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

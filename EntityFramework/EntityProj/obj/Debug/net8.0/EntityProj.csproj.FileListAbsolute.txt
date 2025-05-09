@@ -1,0 +1,619 @@
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfoInputs.cache
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfo.cs
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.CoreCompileInputs.cache
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.exe
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.deps.json
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.runtimeconfig.json
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.pdb
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.dll
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\refint\EntityProj.dll
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.pdb
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.genruntimeconfig.cache
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\ref\EntityProj.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.AssemblyReference.cache
+D:\C# Programs\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.Up2Date
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Core.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Identity.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Humanizer.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.ClientModel.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.CodeDom.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Json.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\C# Programs\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.exe
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.deps.json
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.runtimeconfig.json
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.pdb
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.ClientModel.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Json.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.AssemblyReference.cache
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfoInputs.cache
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfo.cs
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.CoreCompileInputs.cache
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.Up2Date
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\refint\EntityProj.dll
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.pdb
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.genruntimeconfig.cache
+D:\Projects\BD\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\ref\EntityProj.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.exe
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.deps.json
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.runtimeconfig.json
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.pdb
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfo.cs
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.Up2Date
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\refint\EntityProj.dll
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.pdb
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.genruntimeconfig.cache
+C:\Users\User\Downloads\EntityFramework (2)\EntityFramework\EntityFramework\EntityProj\obj\Debug\net8.0\ref\EntityProj.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.exe
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.deps.json
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.runtimeconfig.json
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\EntityProj.pdb
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.ClientModel.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Text.Json.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.AssemblyReference.cache
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfoInputs.cache
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.AssemblyInfo.cs
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.CoreCompileInputs.cache
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.csproj.Up2Date
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\refint\EntityProj.dll
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.pdb
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\EntityProj.genruntimeconfig.cache
+D:\Projects\Big Data\EntityFramework\EntityProj\obj\Debug\net8.0\ref\EntityProj.dll
