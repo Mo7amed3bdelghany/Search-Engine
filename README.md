@@ -8,11 +8,9 @@ Welcome to our **Big Data Search Engine** project — a comprehensive, end-to-en
 ---
 ## 📽️ Project Demo
 
-Check out the live demo video to see how everything works in action!
+> 🔊 Check out the live demo video to see how everything works in action!
 
-[![Watch the video](https://github.com/user-attachments/assets/1004a7de-c4d2-458e-8e83-403b57869232)](https://github.com/Mo7amed3bdelghany/Search-Engine/blob/main/assets/demo.mkv)
-
-> 🔊 Click the image above to watch the demo.
+[![Watch the video](https://github.com/user-attachments/assets/1004a7de-c4d2-458e-8e83-403b57869232)](https://github.com/user-attachments/assets/a892becc-bc23-43be-b850-75d0c021aeb9)
 
 ---
 
