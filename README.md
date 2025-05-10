@@ -6,6 +6,15 @@ This project is a scalable and efficient Search Engine designed to handle large-
 Welcome to our **Big Data Search Engine** project — a comprehensive, end-to-end system built as part of our Big Data course. This project showcases real-world applications of big data concepts, including large-scale data collection, indexing, ranking, and search.
 
 ---
+## 📽️ Project Demo
+
+Check out the live demo video to see how everything works in action!
+
+[![Watch the video](https://github.com/user-attachments/assets/1004a7de-c4d2-458e-8e83-403b57869232)](https://github.com/Mo7amed3bdelghany/Search-Engine/blob/main/assets/demo.mkv)
+
+> 🔊 Click the image above to watch the demo.
+
+---
 
 ## 🧠 Project Overview
 
